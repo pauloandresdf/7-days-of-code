@@ -8,6 +8,7 @@ Aqui você encontrará meus exercícios diários desenvolvidos para fortalecer h
 ## 🔍 Sobre o Desafio
 
 O **7DaysOfCode** é uma campanha prática para acelerar o aprendizado em programação, com foco em:
+---
 ✅ Reforçar a base técnica em algoritmos  
 ✅ Preparar para problemas complexos  
 ✅ Aumentar a confiança na resolução de desafios  
